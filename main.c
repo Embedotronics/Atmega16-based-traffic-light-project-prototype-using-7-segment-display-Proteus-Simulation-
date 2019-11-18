@@ -1,3 +1,5 @@
+// Traffic light project prototype with AVR microcontroller
+// Created by Embedotronics Technologies.
 #define F_CPU 8000000UL
 #include<avr/io.h>
 #include<util/delay.h>
